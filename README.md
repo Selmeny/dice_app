@@ -1,6 +1,6 @@
-# Dicee 🎲
+# Dicee App 🎲
 
-Simple dice app.
+Simple dice app, for your weekend party.
 
 Here are the main things that i learned to use in this project:
 
@@ -14,6 +14,6 @@ Here are the main things that i learned to use in this project:
 - Learn about basic dart programming concepts such as data types and functions.
 - Code and use gesture controls.
 
-Screenshots:
+Pictures:
 
 <img src="https://github.com/Selmeny/dicee_app/blob/master/images/screenshot_1.png" width="200"> <img src="https://github.com/Selmeny/dicee_app/blob/master/images/screenshot_2.png" width="200"> <img src="https://github.com/Selmeny/dicee_app/blob/master/images/screenshot_3.png" width="200">
